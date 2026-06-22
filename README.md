@@ -1,5 +1,7 @@
 # Aufgabe 2: Multi-Umrechner App
 
+# HINWEIS: Zum Reppository zu Aufgabe 3 geht es hier lang, da ich auf Ilias den Text nicht mehr bearbeiten konnte: https://github.com/pattyongit/Freier_Pfad_Aufgabe_3 
+
 ## Features & Umrechnungen
 - **Fläche in Fußballfelder:** Rechnet Quadratmeter in die standardisierte Größe von Fußballfeldern (ca. 7140 m²) um.
 - **Alter in Minuten:** Berechnet anhand des eingegebenen Alters in Jahren die ungefähre Lebenszeit in Minuten.
